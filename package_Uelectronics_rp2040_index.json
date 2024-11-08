@@ -19,46 +19,44 @@
           "boards": [
             {
               "name": "DualMCU RP2040"
-              
             },
             {
               "name": "Dual ONE RP2040"
-              
             }            
           ],
           "toolsDependencies": [
             {
-              "packager": "rp2040",
+              "packager": "Uelectronics",
               "version": "4.0.1-8ec9d6f",
               "name": "pqt-gcc"
             },
             {
-              "packager": "rp2040",
+              "packager": "Uelectronics",
               "version": "4.0.1-8ec9d6f",
               "name": "pqt-gcc-riscv"
             },
             {
-              "packager": "rp2040",
+              "packager": "Uelectronics",
               "version": "4.0.1-8ec9d6f",
               "name": "pqt-mklittlefs"
             },
             {
-              "packager": "rp2040",
+              "packager": "Uelectronics",
               "version": "4.0.1-8ec9d6f",
               "name": "pqt-pioasm"
             },
             {
-              "packager": "rp2040",
+              "packager": "Uelectronics",
               "version": "1.0.1-base-3a57aed-1",
               "name": "pqt-python3"
             },
             {
-              "packager": "rp2040",
+              "packager": "Uelectronics",
               "version": "4.0.1-8ec9d6f",
               "name": "pqt-openocd"
             },
             {
-              "packager": "rp2040",
+              "packager": "Uelectronics",
               "version": "4.0.1-8ec9d6f",
               "name": "pqt-picotool"
             }
