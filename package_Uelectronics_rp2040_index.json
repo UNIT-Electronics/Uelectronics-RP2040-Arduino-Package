@@ -13,11 +13,9 @@
           "category": "Unit Electronics",
           "name": "UNIT Electronics RP2040", 
           "url": "https://github.com/UNIT-Electronics/Uelectronics-RP2040-Arduino-Package/releases/download/v2.0.0/Uelectronics-rp2040_rp2350-2.0.0.zip",
-
-          
           "version": "2.0.0",
           "architecture": "rp2040",
-          "archiveFileName": "Uelectronics-rp2040_rp2350-2.0.0",
+          "archiveFileName": "Uelectronics-rp2040_rp2350-2.0.0.zip",
           "boards": [
             {
               "name": "DualMCU RP2040"
