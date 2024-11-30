@@ -9,7 +9,9 @@ See https://github.com/UNIT-Electronics/DualMCU along with the examples for more
 
 # Supported Boards
 * DualMCU RP2040
+* Dual ONE RP2040
 * Raspberry Pi Pico
+* Raspberry Pi Pico 2
 * Raspberry Pi Pico W
 * Generic (configurable flash, I/O pins)
 
